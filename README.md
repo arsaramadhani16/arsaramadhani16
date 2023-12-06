@@ -23,6 +23,6 @@ Malass.
 ---
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025)](https://discord.com/users/518993909792374811)
+[![Discord Presence](https://lanyard.cnrad.dev/api/518993909792374811)](https://discord.com/users/518993909792374811)
 
 ---

@@ -1,61 +1,36 @@
-# Welcome to My Profile 👋
+#  About Me:
+Malass
 
-Hello, I'm [arsaramadhani16](https://s.id/arsaramadhani16), and I'm glad you found your way to my GitHub profile! Feel free to connect with me on social media.
 
-## Connect with Me
+##  Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsaramadhani16) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ohhayshit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arsaramadhani16) 
 
-<table>
-  <tr>
-    <th>
-      <a href="https://www.facebook.com/arsaramadhani16" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook">
-      </a>
-    </th>
-    <th>
-      <a href="https://www.instagram.com/@arsaramadhani16/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram">
-      </a>
-    </th>
-    <th>
-      <a href="https://www.twitter.com/@arsaramadhani16/" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-      </a>
-    </th>
-  </tr>
-</table>
+#  Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![React Js](https://img.shields.io/badge/React-js-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arsaramadhani16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arsaramadhani16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsaramadhani16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## My Website
+##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arsaramadhani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Check out my profile: [Profile](https://s.id/arsaramadhani16)
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arsaramadhani16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## About Me
+[![Hanif github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsaramadhani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Feel free to add a short description of yourself, your interests, and any other relevant information.
+---
 
-## Projects
+### Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/712745906876842025)](https://discord.com/users/712745906876842025)
 
-List some of your notable projects with brief descriptions and links.
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3gz2hurvhrl2ya2uatoktxafe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/31k3gz2hurvhrl2ya2uatoktxafe?si=76156735e6eb41c8))
+### Spotify recently
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31k3gz2hurvhrl2ya2uatoktxafe&count=1)
 
-1. **Project One**
-   - Description: A brief description of the project.
-   - [Link to Project One](https://github.com/your-username/project-one)
-
-2. **Project Two**
-   - Description: Another cool project you want to showcase.
-   - [Link to Project Two](https://github.com/your-username/project-two)
-
-## Skills
-
-Highlight some of your skills or technologies you're familiar with.
-
-- HTML, CSS, JavaScript
-- Python, Java
-- Frameworks: React, Node.js
-
-## Stats
-
-You can use GitHub stats cards to display your contribution graph, commits, and more.
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsaramadhani16&show_icons=true&count_private=true)
-
-Feel free to customize and enhance this template based on your preferences. You can also explore more GitHub badges and features to make your README more visually appealing.
+---
+[![](https://visitcount.itsvg.in/api?id=Synxx12&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
